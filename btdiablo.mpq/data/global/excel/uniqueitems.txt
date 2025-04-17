@@ -135,7 +135,7 @@ Islestrike	131	100	1			1	1	51	43	92a	Twin Axe		5	5000								allskills		1	3	str	
 Pompe's Wrath	132	100	1			1	1	53	45	9mp	Crowbill		5	5000	cred	cred		invmpiu				hit-skill	234	35	10	slow		50	50	dmg-fire		35	150	pierce-fire		10	10	dmg%		180	190	swing3		30	30																										0
 Guardian Naga	133	100	1			1	1	56	48	9wa	Naga		5	5000								hit-skill	92	33	10	lifesteal		7	7	res-pois		30	30	dmg%		180	200	dmg-pois	250	256	256	dmg-max		20	20	swing2		20	20	pierce-pois		10	20																		0
 Warlord's Trust	134	100	1			1	1	43	35	9la	Military Axe		5	5000	whit	whit						swing3		50	50	regen		20	20	vit/lvl	4			res-all		25	25	rep-dur	25			dmg%		200	200	ac-hth		150	150	balance3		30	40	dmg-min		40	40	dmg-max		40	40										0
-Spellsteel	135	100	1			1	1	47	39	9ba	Bearded Axe		5	5000	whit	whit						ease		-60	-60	mana		100	100	red-mag		12	15	cast1		10	10	dmg%		165	165	regen-mana		25	25	oskill	Teleport	1	1	oskill	87	3	3	oskill	101	100	10	oskill	225	12	12										0
+Spellsteel	135	100	1			1	1	47	39	9ba	Bearded Axe		5	5000	whit	whit						ease		-60	-60	mana		100	100	red-mag		12	15	cast1		10	10	dmg%		165	165	regen-mana		25	25	oskill	Teleport	1	1	oskill	87	3	3	oskill	101	10	10	oskill	225	12	12										0
 Stormrider	136	100	1			1	1	49	41	9bt	Tabar		5	5000	lred	lred		inv9btu				hit-skill	53	45	30	hit-skill	48	40	30	dmg-ltng		1	200	swing2		30	30					dur		50	50	oskill	57	20	20	gethit-skill	91	15	10																		0
 Boneslayer Blade	137	100	1			1	1	50	42	9ga	Gothic Axe		5	5000				invgaxu				ease		-50	-50	dmg-und/lvl	20			str		20	20	swing3		60	60	att%		35	35	dmg%		180	220	hit-skill	101	75	20																						0
 The Minataur	138	100	1			1	1	53	45	9gi	Ancient Axe		5	5000				inv9giu				stupidity		2	2	nofreeze		1	1	str		15	20	slow		50	50	crush		30	30	dmg-norm		20	30	dmg%		200	250	swing3		50	50																		0
@@ -264,7 +264,7 @@ Doombringer	260	100	1			1	1	75	69	7b7	Champion Sword		5	5000	dred	dred		invbswu	
 The Grandfather	261	100	1			8	1	85	81	7gd	Colossus Blade		5	5000	lyel	lyel		invgsdu				all-stats		20	20	att%		50	50	hp		80	80	dmg/lvl	20			rep-dur	5			dmg%		200	300																										0
 Wizardspike	262	100	1			1	1	69	61	7dg	Bone Knife		5	5000	lgry	lgry						mana/lvl	16			regen-mana		15	15	mana%		15	15	res-all		35	50	rep-dur	5			cast3		50	50	allskills		1	1																						0
 Constricting Ring	263	100	1			1	1	86	95	rin	Ring		5	5000	cblu	cblu						res-all		20	20	regen		-10	-10	mag%		20	20	res-all-max		1	3										0																								0
-Stormspire	264	100	1			1	1	78	70	7wc	Giant Thresher		5	5000	dblu	dblu						res-ltng		50	50	gethit-skill	Static Field	30	20	dmg%		200	300	str		20	20	hit-skill	Lower Resist	30	10	swing2		30	30	rep-dur	5			dmg-ltng		1	237	91	91	30	10	lifesteal		8	10	att%		150	150						0
+Stormspire	264	100	1			1	1	78	70	7wc	Giant Thresher		5	5000	dblu	dblu						res-ltng		50	50	gethit-skill	Static Field	30	20	dmg%		200	300	str		20	20	hit-skill	Lower Resist	30	10	swing2		30	30	rep-dur	5			dmg-ltng		1	237	oskill	91	30	10	lifesteal		8	10	att%		150	150						0
 Eaglehorn	265	100	1			1	1	77	69	6l7	Crusader Bow		5	5000	dgld	dgld						ignore-ac		1	1	lifesteal		6	8	dmg%/lvl	20			dmg%		250	250	ama		2	2	dex		25	25	skill	32	7	7	swing2		30	30	aura	Blessed Aim	6	6														0
 Windforce	266	100	1			8	1	80	73	6lw	Hydra Bow		5	5000	dyel	dyel						dex		20	20	dmg/lvl	25			manasteal		6	8	knock		1	1	dmg%		250	300	swing2		20	20	str		20	20	hit-skill	Twister	50	40																		0
 Rings																																																																							0
